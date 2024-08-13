@@ -1,3 +1,14 @@
+# React Image Gallery
+
+## Project Overview
+This project is a responsive image gallery website built using React.js. It allows users to view, search, and interact with a collection of images.
+Please put the /images folder inside the public directory
+Please update 'const = imageDataArray' according to the images used
+
+Running the code [Use sudo if run into adminstration issues
+npm install
+npm start
+
 <!-- I declare that the lab work here submitted is original
 except for source material explicitly acknowledged,
 and that the same or closely related material has not been
